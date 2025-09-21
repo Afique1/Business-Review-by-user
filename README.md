@@ -1,2 +1,2 @@
 # Business-Review-by-user
-This assignment focuses on reviewing user comments of business's. The analysis is based on python, through analyzing trend of review.
+This assignment focuses on reviewing user comments of businesses. The analysis is based on Python, by analyzing the trend of reviews.
